@@ -1,0 +1,23 @@
+{
+  "name": "warp-namespaces",
+  "version": "1.0.0",
+  "description": "Expermients with warp decorators",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warp-contracts/expermients-decorators.git"
+  },
+  "author": "Warp team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warp-contracts/expermients-decorators/issues"
+  },
+  "homepage": "https://github.com/warp-contracts/expermients-decorators#readme",
+  "dependencies": {
+    "warp": "^5.0.2"
+  }
+}
